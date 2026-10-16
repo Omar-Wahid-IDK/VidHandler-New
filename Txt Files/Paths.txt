@@ -1,0 +1,6 @@
+E:/Media Player/Videos/test
+E:\Media Player\Videos\Anime
+In The First Line You Need To Put The Path For Where You Want The Youtube Videos Sorted
+In The Second Line You Need To Put The Path For Where You Want The Anime Videos Sorted
+#Note:
+You Need To Put A Path For Both And If You Dont Want To Make An Anime Folder Set Its Path The Same As The Youtube Path

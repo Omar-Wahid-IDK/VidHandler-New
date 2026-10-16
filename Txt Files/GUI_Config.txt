@@ -1,0 +1,4 @@
+MODE=Music
+QUALITY=320kbps
+KEEP_FOLDERS=False
+PLAYLIST=False
